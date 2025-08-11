@@ -1,1 +1,0 @@
-# livehd7-scraper
